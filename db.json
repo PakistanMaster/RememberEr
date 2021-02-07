@@ -1,12 +1,14 @@
-"Group" : [
-        {
-                "id": "3df656ea-695c-11eb-9439-0242ac130002",
-                "name" : "Favorites",
-                "color" : "yellow"
-        },
-        {
-                "id": "3df656ba-695c-11eb-9439-0242ac130002",
-                "name" : "Others",
-                "color" : "blue"
-        }
-]
+{
+        "Group" : [
+                {
+                        "id": "3df656ea-695c-11eb-9439-0242ac130002",
+                        "name" : "Favorites",
+                        "color" : "yellow"
+                },
+                {
+                        "id": "3df656ba-695c-11eb-9439-0242ac130002",
+                        "name" : "Others",
+                        "color" : "blue"
+                }
+        ]
+}
